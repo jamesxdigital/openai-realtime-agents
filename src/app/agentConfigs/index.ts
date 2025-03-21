@@ -11,4 +11,4 @@ export const allAgentSets: AllAgentConfigsType = {
   omni,
 };
 
-export const defaultAgentSetKey = "simpleExample";
+export const defaultAgentSetKey = "omni";
